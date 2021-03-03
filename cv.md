@@ -1,23 +1,23 @@
-#Victor Salmanov
+# Victor Salmanov
  
 ---
-####Contacts
-Phone number : *+79179519840*;
-Email:  *victorsalmanov@yandex.ru*;
-Telegram: *@tokanito*.
+#### Contacts
+Phone number : *  +79179519840*;
+Email:  * victorsalmanov@yandex.ru *;
+Telegram: * @tokanito *.
  
 ---
-####Education 
+#### Education 
 Samara State Technical University, Oil-Technological department, Bachelor’s degree in Development of oil deposits (2014—2018);
 Samara State Technical University, Industrial civil engineering department, Master’s degree in Building (2018—2020).
 
 ---
 
-####Work experience
+#### Work experience
 
 ---
 
-*Building Restoration Corporation 'Gefest'*, 2020-present
+* Building Restoration Corporation 'Gefest' *, 2020-present
 Samara, Russia
 Foreman of building and assembly works
 
@@ -26,12 +26,12 @@ Foreman of building and assembly works
 - Checking for geodetic compliance.
 
 ---
-####Technical skills
+#### Technical skills
 - Learning Javascript, HTML, CSS, SQL
 
 ---
 
-####Special skills
+#### Special skills
 
 - Native Russian;
 - Fluent English;
