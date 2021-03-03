@@ -2,7 +2,7 @@
  
 ---
 ####Contacts
-Phone number : * +79179519840*;
+Phone number : *+79179519840*;
 Email:  *victorsalmanov@yandex.ru*;
 Telegram: *@tokanito*.
  
