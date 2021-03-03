@@ -2,9 +2,9 @@
  
 ---
 #### Contacts
-Phone number : *  +79179519840*;
-Email:  * victorsalmanov@yandex.ru *;
-Telegram: * @tokanito *.
+Phone number : *+79179519840*;
+Email:  *victorsalmanov@yandex.ru*;
+Telegram: *@tokanito*.
  
 ---
 #### Education 
@@ -17,7 +17,7 @@ Samara State Technical University, Industrial civil engineering department, Mast
 
 ---
 
-* Building Restoration Corporation 'Gefest' *, 2020-present
+*Building Restoration Corporation 'Gefest'*, 2020-present
 Samara, Russia
 Foreman of building and assembly works
 
